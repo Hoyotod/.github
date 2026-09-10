@@ -14,7 +14,7 @@ Claim daily reward automation. Streamline your daily reward claiming process wit
 Auto redeem code utility. Automatically redeem promotional codes without manual effort.
 
 ### [hoyo](https://github.com/Hoyotod/hoyo)
-Web application for managing Hoyoverse game utilities. Built with TypeScript and deployed at [hoyo-tau.vercel.app](https://hoyo-tau.vercel.app).
+Web application for managing Hoyoverse game utilities. Built with TypeScript and deployed at [hoyotod.vercel.app](https://hoyotod.vercel.app).
 
 ## 🤝 Contributing
 
